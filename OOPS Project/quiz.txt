@@ -1,0 +1,15 @@
+can we make Private constructor
+[[yes,  no ,  only in abstract class,  none of above]]
+0
+how can we solve multiple inheritance problem
+[[interface,  Abstract class,  Classes,  File handling]]
+0
+why we use Buffer Reader
+[[solve problem,  to create class,  Make interface,  File handling]]
+3
+when we use getter and setter
+[[when property is private,  to make object,  to Create File,  File handling]]
+0
+can we use final in abstract method
+[[Yes,  no,  we can use both private and final,  we cant use both final and private]]
+3
